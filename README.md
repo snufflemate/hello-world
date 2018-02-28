@@ -1,2 +1,2 @@
-# hello-world
-test repository for git
+hello-world
+repository for testing git
